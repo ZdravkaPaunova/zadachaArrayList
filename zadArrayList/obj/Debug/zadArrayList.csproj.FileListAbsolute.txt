@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\bin\Debug\zadArrayList.exe.config
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\bin\Debug\zadArrayList.exe
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\bin\Debug\zadArrayList.pdb
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\obj\Debug\zadArrayList.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\obj\Debug\zadArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\obj\Debug\zadArrayList.exe
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\obj\Debug\zadArrayList.pdb
+C:\Users\Admin\source\repos\zadArrayList\zadArrayList\obj\Debug\zadArrayList.exe.config
